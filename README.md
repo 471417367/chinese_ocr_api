@@ -1,6 +1,10 @@
 # 这里基于tensorflow，pytorch实现对自然场景的文字检测及端到端的OCR中文文字识别
 
-## 注意参考了https://github.com/xiaofengShi/CHINESE-OCR
+## 主要参考了https://github.com/xiaofengShi/CHINESE-OCR
+
+## ctpn2主要参考了https://github.com/eragonruan/text-detection-ctpn
+
+## 模型和数据都可以到原项目上去下载，然后放入指定文件夹下
 
 ## 还在更新
 ctnp_ocr_test.ipynb文件是运行的Demo，运行前需要下载模型，并放入指定文件夹下（可查看CHINESE-OCR-API\img）。
